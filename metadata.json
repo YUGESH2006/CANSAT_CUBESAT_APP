@@ -1,0 +1,8 @@
+{
+  "name": "CanSat Ground Control Station",
+  "description": "Production-grade aerospace operator dashboard for real-time CanSat telemetry parsing, Leaflet tracking, 3D orientation rendering, Chart.js analytics, and live camera integration.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
